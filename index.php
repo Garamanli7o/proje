@@ -30,7 +30,7 @@ if (!isset($_SESSION['user'])) {
             <div class="card shadow rounded"style="background:yellow">
                 <div class="card-body text-center">
                     <h5 class="card-title">Makine 2</h5>
-                    <p class="card-text">Bisküvi makinesi</p>
+                    <p class="card-text">Bisküvi makinesi 2</p>
                     <p class="card-text"><small class="text-muted">Tarih: 2025-07-07</small></p>
                     <a href="makine2.php" class="btn btn-primary mt-2">Detay Gör</a>
                 </div>
